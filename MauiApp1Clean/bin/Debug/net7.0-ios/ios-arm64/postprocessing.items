@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="MauiApp1Clean.app/MauiApp1Clean">
+      <BCSymbolMapName>MauiApp1Clean.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>false</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>false</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>MauiApp1Clean.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>\Users\elegissro\Library\Caches\Xamarin\mtbs\builds\MauiApp1Clean\36d546300b5ecdd78e413a562d13c9cf0c8ea8cdfb36321bfb378a162b2ffe44\obj\Debug\net7.0-ios\ios-arm64\mtouch-symbols.list</SymbolFile>
+      <DSymName>MauiApp1Clean.app.dSYM</DSymName>
+      <SourceProjectPath>C:\Users\zdenek.klima\Desktop\Workspace\Projects\MauiApp1Clean\MauiApp1Clean</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

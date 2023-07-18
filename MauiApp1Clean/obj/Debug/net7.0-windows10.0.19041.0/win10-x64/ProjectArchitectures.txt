@@ -1,0 +1,1 @@
+C:\Users\zdenek.klima\Desktop\Workspace\Projects\MauiApp1Clean\MauiApp1Clean\MauiApp1Clean.csproj;x64
